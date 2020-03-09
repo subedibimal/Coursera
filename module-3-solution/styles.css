@@ -1,0 +1,13 @@
+@media (min-width: 576px) {
+    header div ul li{
+        display: none;
+    }
+}
+@media (max-width: 575px) {
+    header div ul li{
+        text-align: center;
+    }
+}
+hr{
+    border-width: 5px;
+}
